@@ -1,5 +1,3 @@
 # drutance.github.io
 
-haha
-
-haha 
+This website serves as the primary website of Drutacen, a Bangladeshi organisation working on AMR awareness. If you want to reach out, shoot an email at drutance@gmail.com 
